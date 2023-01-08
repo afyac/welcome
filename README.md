@@ -21,9 +21,7 @@ The eventual goal is to have a series of packages that ingest different data sou
 
 We will centralise learning resources and other important documents through Google Drive. This is where all Google Docs and other learning resources will be stored and shared.
 
-[Root Directory](https://drive.google.com/drive/folders/135rgRb-_3ud13VSmyYGjMrlstZF7aWbC?usp=share_link)
-
-(Once I have everyone's Google Account we will change this folder to invite only)
+[Root Directory](https://drive.google.com/drive/folders/135rgRb-_3ud13VSmyYGjMrlstZF7aWbC?usp=sharing)
 
 ## Other Help
 
