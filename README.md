@@ -8,7 +8,8 @@ This is an overview of the current (as of 20 December 2022) different repositori
 
 * [mortality_small_area_estimation](https://github.com/francescochecchi/mortality_small_area_estimation) - Original and current codebase for conducting small area -estimation of mortality
 * [mast](https://github.com/afyac/mast) - Package for cleaning and collating data needed for conducting mortality analysis.
-* [samrat](https://github.com/afyac/samrat) - Package for conducting small area-estimation analysis of mortality. Currently analysis is conducted still using scripts "mortality_small_area_estimation", but eventually we will want to rewrite this code into an R package to help with running analysis and extending approaches used more flexibly.
+* [samrat](https://github.com/afyac/samrat) - Package for conducting small area-estimation analysis of mortality. Currently analysis is conducted still using scripts from "mortality_small_area_estimation", but eventually we will want to rewrite this code into an R package to help with running analysis and extending approaches used more flexibly.
+* [posh](https://github.com/afyac/posh) - Package of plotting and shiny tools - Not yet created and name open for discussion :)
 * [parade](https://github.com/afyac/parade) - Package for results and dissemination. This repository is for keeping track of analysis for each report.
 
 ### Mortality Overview
